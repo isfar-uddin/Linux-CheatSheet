@@ -1,10 +1,10 @@
 
 # Contents
-- [Create Directory](create-directories)
-- [Create file](create-file)
-- [Create file under a new directory](Create-file-under-a-new-directory)
-- [Move file](move-file)
-- [Rename file name](rename-file-name)
+- [Create Directory](#create-directories)
+- [Create file](#create-file)
+- [Create file under a new directory](#create-file-under-a-new-directory)
+- [Move file](#move-file)
+- [Rename file name](#rename-file-name)
 
 # Description
 
